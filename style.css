@@ -129,6 +129,9 @@ button {
     color     : var(--white, #fff);
     background: var(--biryuz, #65BDC0);
 }
+.switch2{
+    color     : var(--white, #353535);
+}
 
 .room {
     position     : absolute;
