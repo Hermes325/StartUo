@@ -129,8 +129,9 @@ button {
     color     : var(--white, #fff);
     background: var(--biryuz, #65BDC0);
 }
-.switch2{
-    color     : var(--white, #353535);
+
+.switch2 {
+    color: #353535;
 }
 
 .room {
@@ -357,7 +358,7 @@ body {
 .floor {
     position     : absolute;
     left         : 25%;
-    top: 35%;
+    top          : 35%;
     width        : 81px;
     border-radius: 8px;
     border       : 2px solid var(--biryuz, #65BDC0);
